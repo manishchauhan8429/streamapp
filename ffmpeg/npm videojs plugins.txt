@@ -1,0 +1,8 @@
+For quality
+npm i --save videojs-contrib-quality-levels videojs-hls-quality-selector
+
+For keyboard
+npm i --save videojs-hotkeys
+
+For seeking (forward / backward)
+npm i --save videojs-seek-buttons
